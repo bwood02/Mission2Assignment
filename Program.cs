@@ -9,7 +9,7 @@ internal class Program
         System.Console.WriteLine("\nWelcome to the dice throwing simulator!\n");
         System.Console.WriteLine("How many dice rolls would you like to simulate?\n");
 
-        while (true)
+        while (true) // test 
         {
             string input = System.Console.ReadLine();
             try
